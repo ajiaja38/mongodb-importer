@@ -4,8 +4,7 @@ import { logger } from "./utils/logger";
 import { join, extname } from "path";
 import fs from "fs";
 
-const destinationDB: string =
-  "mongodb://ngadmin:Agat3Dolomit3@10.101.102.245:27017/georima-sarpras";
+const destinationDB: string = "mongodb://localhost:27017/georima-sarpras";
 const inputDirectory: string = join(__dirname, "./db/georimaPrasarana");
 
 const importCollectionsToDb = async (): Promise<void> => {
