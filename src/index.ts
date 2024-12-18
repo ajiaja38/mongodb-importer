@@ -4,8 +4,9 @@ import { logger } from "./utils/logger";
 import { join, extname } from "path";
 import fs from "fs";
 
-const destinationDB: string = "mongodb://localhost:27017/georima-portal";
-const inputDirectory: string = join(__dirname, "./db/georimaPortal");
+const destinationDB: string =
+  "mongodb://ngadmin:Agat3Dolomit3@10.101.102.245:27017/georima-user";
+const inputDirectory: string = join(__dirname, "./db/georimaUser");
 
 const importCollectionsToDb = async (): Promise<void> => {
   const connection: typeof mongoose | undefined = await dbConnection(
