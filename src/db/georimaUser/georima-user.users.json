@@ -1,0 +1,1870 @@
+[{
+  "_id": {
+    "$oid": "6567f819447b4cb3f0804bc7"
+  },
+  "guid": "surveyor-c21ad05c-89e8-4d9b-bded-b5c31a0b20d9",
+  "email": "test@gmail.com",
+  "name": "surveyor diedit3",
+  "password": "$2b$12$n/EKq/GFFuZdlxa/w.jFn.7eNZCZdQcpW/evQ8AfvJA5lCzxzqh2e",
+  "phone": "085695951165",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-30T09:48:57.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T10:17:23.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65680ea0447b4cb3f0804f87"
+  },
+  "guid": "admin-c35d70ff-c2ae-48ae-9fff-ed23892d24c7",
+  "email": "supbu@gmail.com",
+  "name": "Admin SPB",
+  "password": "$2b$12$9enrskz1nHWJN6J2/O6QZeUz7YGz/ZRcOCM7TP8.OvDF/Kg8WPWQW",
+  "phone": "0878653617991",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-30T11:25:04.886Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T11:42:20.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65693b4f447b4cb3f080503d"
+  },
+  "guid": "admin-4d9c9f62-3ffc-4cdf-a95f-40ff42fed120",
+  "email": "lastri@pptik.id",
+  "name": "Admin Lastri",
+  "password": "$2b$12$QdxXti8R2.T7obJYwmuS7uvRdQfR2g1j.BE1TsVW.0ULVKPW4hTva",
+  "phone": "085695951126",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-01T08:47:59.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T08:47:59.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65695bbb447b4cb3f0805075"
+  },
+  "guid": "admin-f55381ef-3325-4caf-a097-59c2cd254e93",
+  "email": "adminpeta@gmail.com",
+  "name": "Admin Peta 10",
+  "password": "$2b$12$fGg6C2qZvi.Dze/uNDGFlO7zPACLUhR12frULiX4H/QC79X7Wkabi",
+  "phone": "085695951321",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-01T11:06:19.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:29:37.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656bd782447b4cb3f080533f"
+  },
+  "guid": "admin-8317dee7-c360-41e9-9dac-79602ce91da1",
+  "email": "layanancetakpeta@pptik.id",
+  "name": "Admin Lastri",
+  "password": "$2b$12$vzHtzB.MfR.UJBvMWyYTwec8XH3V4sMTxrstgq981o0yDeJHLZ9Ee",
+  "phone": "08569595166",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-03T08:18:58.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-03T08:18:58.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656c112a447b4cb3f080534b"
+  },
+  "guid": "surveyor-32c34810-ec8c-4967-bcfb-0294ec10b858",
+  "email": "customer@pptik.id",
+  "name": "Customer Layanan Cetak Peta",
+  "password": "$2b$12$vBhnM7wQJXe6KKmnPivuteW2Fk50h.SPBEUNgbfLeF/GyebuUtqwC",
+  "phone": "08569595168",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-03T12:24:58.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T12:31:25.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d3c6b26f8a18c5a3ed166"
+  },
+  "guid": "surveyor-e09d943e-3c26-4e1d-bc39-20b2aff6a0de",
+  "email": "dev4@gmail.com",
+  "name": "Developer Update",
+  "password": "$2b$12$AvbVw88YJ7F.SEO9JT0VPOgode9JzLHRYSZdhNhHybkRbTcQdQHEK",
+  "phone": "021791876572",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-04T09:41:47.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T16:20:18.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d783226f8a18c5a3ed1d4"
+  },
+  "guid": "surveyor-c288e855-0944-4074-8227-a2fa4d5c16df",
+  "email": "dev7@gmail.com",
+  "name": "MUHAMMADRIZKI",
+  "password": "$2b$12$wzphfO0bUYkQE1bb4Rkl5Oc4z4C0gZ5L3r30uo91lmZ1ZhjF.iJnG",
+  "phone": "0527273497",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-04T13:56:50.977Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T13:56:50.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656dfb1126f8a18c5a3ed225"
+  },
+  "guid": "admin-5cff72f9-24b0-4ea3-a081-e07265382116",
+  "email": "admin-lcp@pptik.id",
+  "name": "ADMIN Nih",
+  "password": "$2b$12$Ug1wQ0S2EL9sgEvVeM7Aq.Ij8zPaPYLcKjUEAh/1pYxeLq006n4YS",
+  "phone": "08561316244",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-04T23:15:13.881Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T19:42:52.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea1fb26f8a18c5a3ed24e"
+  },
+  "guid": "surveyor-277c7b8f-43a5-4bb1-922c-67ce043b7c97",
+  "email": "dev1@dev.id",
+  "name": "Developer",
+  "password": "$2b$12$cazv08wnegefi4IWl7WtBexPoDJU3qMwWL5httgs4uu12fCItM3sG",
+  "phone": "081234567898",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-05T11:07:23.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T11:07:23.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ecbe626f8a18c5a3ed26f"
+  },
+  "guid": "admin-5a581c4e-ac8c-4a8b-83a8-84a8aa6ce50b",
+  "email": "teknis@gmail.com",
+  "name": "Admin Dokumen Teknis",
+  "password": "$2b$12$EV5NTWCKMmb/2yKg5WFQ9.nRYfnZzriYxHkGhTQ0VjVRafqN5HihW",
+  "phone": "085695951292",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-05T14:06:14.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T14:06:14.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ff7d026f8a18c5a3ed340"
+  },
+  "guid": "admin-598f8a02-cfab-475e-9afe-f7a4e7df5e45",
+  "email": "admin-dk@pptik.id",
+  "name": "ADMIN DOKUMEN TEKNIS",
+  "password": "$2b$12$y4Io3rYn37mXmc2O7FcKIORMYugvCl0nDLMBvlnBj7AKCu4rJdsOm",
+  "phone": "08569595168476",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-06T11:25:52.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T11:25:52.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65714b477fac975de3839ec1"
+  },
+  "guid": "surveyor-73175ca3-4e3f-4657-9b34-3e4d32f1e16a",
+  "email": "aseptrisna1998@gmail.com",
+  "name": "Asep Trisna Setiawan",
+  "password": "$2b$12$XRvNRqyayITjeeinHYvhVOdjSinB56ioj1QZBjyuJ8tG6/jy1bdN2",
+  "phone": "082283198278",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-07T11:34:15.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:34:15.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572b5dab3a530332eb20cd5"
+  },
+  "guid": "admin-f016a331-bdf7-4dd9-9457-167bee88d0df",
+  "email": "admin-portal-map@pptik.id",
+  "name": "ADMIN DOKUMEN TEKNIS",
+  "password": "$2b$12$GkAoL5Hqxc9sRpkuxwQocuTM20yDmGgmos/jjtNycaqvyvzLjSkji",
+  "phone": "085695951684769",
+  "guidApplication": [
+    "module-e32f73a5-fd9d-4020-b256-35cc38b00928"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-08T13:21:14.727Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-08T13:21:14.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6577d7aebd5eaf61b3e3234d"
+  },
+  "guid": "admin-5f048fc3-d2bc-4ce5-a4cf-e484e9d99f16",
+  "email": "portal@pptik.id",
+  "name": "Admin Portal",
+  "password": "$2b$12$amwENmgFqC2V2Xr8RG9V6.W1hshDinkXKpl.oCXAnJQ37I/wZ1yF.",
+  "phone": "085695123198",
+  "guidApplication": [
+    "module-e32f73a5-fd9d-4020-b256-35cc38b00928"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-12T10:46:54.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:46:54.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6578027f5da39e0cbd382304"
+  },
+  "guid": "admin-f49edbce-f2fa-4293-a7c5-9c71f4c40a6e",
+  "email": "portal2@pptik.id",
+  "name": "Admin Portal",
+  "password": "$2b$12$OTPtYEW9aCGm3hwpIOfI7.SRlU7qG/5cbmhQC4KdRNQKJpgFsCPBG",
+  "phone": "08569592831",
+  "guidApplication": [
+    "module-181e1840-d3cf-4bbb-a82d-885707088cb7"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-12T13:49:35.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:15:34.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657faa905da39e0cbd38264b"
+  },
+  "guid": "surveyor-11e30b1d-2e1e-47d7-8133-175e9a445bbe",
+  "email": "dev20@gmail.com",
+  "name": "DEVELOPER 20",
+  "password": "$2b$12$CpyEKb8pdO8HL6aQTy3WO.Xn1Ds34xwlvpO6hcZ5SOEZaYLNdZzL.",
+  "phone": "0275467849",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-18T09:12:32.510Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T07:57:39.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc03c5da39e0cbd38267c"
+  },
+  "guid": "admin-6e2af88d-adf0-4cd3-9636-ac09175c1f5c",
+  "email": "kinerja@pptik.id",
+  "name": "Admin Kinnerja",
+  "password": "$2b$12$zasuM2iq4n2RDGd0j3jPAOQCswzbMkdOsB33IQ7x0B2tXzZizpe46",
+  "phone": "08569595112132",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-18T10:45:00.347Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T10:45:00.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581587a5da39e0cbd3829b4"
+  },
+  "guid": "superAdmin-f035f0e8-d1db-4439-bffa-92750f4fc4e6",
+  "email": "superAdmin@pptik.id",
+  "name": "super Admin Georima NG",
+  "password": "$2b$12$r7bMrRyNXl/QhYlWkSKYWObPORnsJBTOBiIRYgFAZPs4EHQbIjgSO",
+  "phone": "085695951128",
+  "guidApplication": [
+    "module-181e1840-d3cf-4bbb-a82d-885707088cb7"
+  ],
+  "role": "superAdmin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-19T15:46:50.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T15:06:39.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65825bdadf10bfaa30408868"
+  },
+  "guid": "divisi-0d6aa8b9-daff-42a9-b866-0581661d15a2",
+  "email": "divisi1@pptik.id",
+  "name": "divisi1",
+  "password": "$2b$12$GlXF.wKqIBKuUAxsdxu.cefyKJuqfgZ39FTG6n.RqO/d/Y5T/yYyW",
+  "phone": "085695951122",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-20T10:13:30.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T10:16:24.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65825d8edf10bfaa30408874"
+  },
+  "guid": "divisi-eafba351-cce9-43b8-b8ec-a9e20f2be996",
+  "email": "divisi@gmail.com",
+  "name": "Divisi",
+  "password": "$2b$12$clqaSMsaGs5J64/Kjo6QCOxflu6AgCKX13NnGHzOPv3Cd3TjE8Kfe",
+  "phone": "087878571535",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-20T10:20:46.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T10:20:46.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584fcfd01c78c3b924feba1"
+  },
+  "guid": "admin-907fabd6-67c2-4a54-93d1-8ef75beff70b",
+  "email": "admin.sumur@georima.id",
+  "name": "Admin Sumur Panas",
+  "password": "$2b$12$Ta79JyRWmEiW9LoF6I4SaeZggFR8G6DHXcxfid.rE7ctf1CmoFPBy",
+  "phone": "088921491243",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:05:33.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:05:33.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584fd6a01c78c3b924feba9"
+  },
+  "guid": "admin-bf08151f-bd97-4634-99d3-4c711578fef7",
+  "email": "cetak.peta@georima.id",
+  "name": "Admin Layanan Cetak",
+  "password": "$2b$12$/fYlRknYqo0Yg2Z5t8jA5e5AYSlKf4.4ovbG2nGvCKXgWzJQNyFCS",
+  "phone": "081224501871",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:07:22.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:07:22.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584fdef01c78c3b924febb1"
+  },
+  "guid": "admin-85c90d8d-8a1d-4ba4-bff2-1c2d85626fdd",
+  "email": "saran@georima.id",
+  "name": "Admin Sarana Prasarana 456",
+  "password": "$2b$12$SuSKppZMoVfpA6WAlvI8XevGmkzwDoDcRstx.MYDz8UN1zosSBQ4i",
+  "phone": "0858567456456",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:09:35.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T08:52:09.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584fe8101c78c3b924febbd"
+  },
+  "guid": "admin-93cec0d0-4bab-4ec4-81ea-77849d74ced3",
+  "email": "dokteknis@georima.id",
+  "name": "Admin Dokumentasi",
+  "password": "$2b$12$qs7XN/S4.fcOWful./J8neeoxZYnRLkKLygA9axtWqpDPIrzL.p1u",
+  "phone": "0891204124123",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:12:01.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:12:01.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584feb401c78c3b924febc3"
+  },
+  "guid": "admin-440c8ae7-6d9f-47be-b990-e88537ca01fe",
+  "email": "admin.portal@georima.id",
+  "name": "Admin Portal",
+  "password": "$2b$12$8vzFiJ88I9KmfTMHkC4Y/u/jRpJhTpMJfYwTv5aXz7.REDydlVPO.",
+  "phone": "0840128412714",
+  "guidApplication": [
+    "module-181e1840-d3cf-4bbb-a82d-885707088cb7"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:12:52.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:12:52.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584fed001c78c3b924febca"
+  },
+  "guid": "admin-d3716c5f-f596-4864-8ce3-1d5750ca2da6",
+  "email": "admin.maps@georima.id",
+  "name": "Admin Maps",
+  "password": "$2b$12$kFPa33q63El4scBrUIccKeqMOBmFpw/1SPM356NsLqzKx3GTxDfmG",
+  "phone": "0835234121232",
+  "guidApplication": [
+    "module-e32f73a5-fd9d-4020-b256-35cc38b00928"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:13:20.184Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:13:20.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584ff4001c78c3b924febd5"
+  },
+  "guid": "admin-9bb46cee-ff00-453f-911c-ed3fe20a57ab",
+  "email": "puas@georima.id",
+  "name": "Admin Kepuasan Pelanggan",
+  "password": "$2b$12$b7TjfhNE.0JAKkLRSZDNR.esy1CSdo40GXyFr6KKDbUap1FeKxn2m",
+  "phone": "087565464564",
+  "guidApplication": [
+    "module-5824f16c-1536-434b-ad55-baff7b5a6e05"
+  ],
+  "role": "superAdmin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:15:12.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:15:12.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584ff9101c78c3b924febe2"
+  },
+  "guid": "admin-b15be774-40df-4cc2-b037-8a1dc5544f76",
+  "email": "laporan@georima.id",
+  "name": "Admin Laporan Tahunan",
+  "password": "$2b$12$1bRTOXNJYWwWFRDjfQFIneHrystxzMFSuM.oRPph3w5oiRv5vFm2q",
+  "phone": "08967856754",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-22T10:16:33.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T14:18:16.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658cdb148ec7109721eb5acd"
+  },
+  "guid": "surveyor-9f443106-e3fe-45a2-b647-deb64b3d9e92",
+  "email": "dev12@gmail.com",
+  "name": "DEVELOPER 12",
+  "password": "$2b$10$k7vUYmAUDCP8p9UJh5Y5e.652Yk7meOGHz73GUmqM7w2Wd2EiMAWm",
+  "phone": "02178457676",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-28T09:19:00.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-28T09:19:00.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d3e3e8ec7109721eb5f64"
+  },
+  "guid": "surveyor-82b207a1-d585-4d37-ba57-93c2e2de5d5a",
+  "email": "dev14@gmail.com",
+  "name": "DEVELOPER 14",
+  "password": "$2b$12$HizoHnV1IHOjZs3Apwcp9.DXYkVruY.o9Hk8BdChLpjnrEEYgrZDe",
+  "phone": "057649187573",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-12-28T16:22:06.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T11:59:14.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b5aea8ec7109721eb63d5"
+  },
+  "guid": "surveyor-e235441d-bddc-4c28-8881-55ea42149e7a",
+  "email": "asep.iot21@ubl.ac.id",
+  "name": "ASEP TRISNA SETIAWAN",
+  "password": "$2b$12$FiabeRiFbVVLh3F3xRsb7uPsHGfA8LRVtqfPdNpIMAmgt8U.5nDZm",
+  "phone": "082283198218",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-08T09:16:10.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T09:16:10.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659b638c8ec7109721eb6426"
+  },
+  "guid": "surveyor-b7b5907f-3b9a-4dcb-8217-a40e70a752ef",
+  "email": "agungyusufw6@gmail.com",
+  "name": "Agung Yusuf Wibowo",
+  "password": "$2b$12$tGCt/HEJvqdTIyplUvKuWejOpoV937MkGlNWoAZr1m28gC5ux3Npe",
+  "phone": "088218632539",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-08T09:53:00.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T10:08:09.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659caff28ec7109721eb65f1"
+  },
+  "guid": "surveyor-8b31487b-69e9-407b-a239-8b23e2b254e1",
+  "email": "archyosh4@gmail.com",
+  "name": "AGUNG YUSUF WIBOWO",
+  "password": "$2b$12$nFx9XMOmAbtItKunDWVqk.vs47sxSGhyCINqCGR0rGJ8OYOaZTNwO",
+  "phone": "089675599528",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-09T09:31:14.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T10:15:06.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659df57a2b16c994500379ae"
+  },
+  "guid": "surveyor-4e2021a3-8755-4318-8dd3-0c91c4d83578",
+  "email": "dev16@gmail.com",
+  "name": "DEVELOPER 168",
+  "password": "$2b$12$ydMfwb/mvz6sJsE9uB9lrO2IUjwrNG2x4eHJ02G/etJJW2cZ7FPzi",
+  "phone": "085112468168",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-10T08:40:10.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T09:39:50.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659e1ac42b16c99450037a42"
+  },
+  "guid": "surveyor-fe349295-bb31-4499-9178-bec2b5992d72",
+  "email": "dev18@gmail.com",
+  "name": "DEVELOPER 20",
+  "password": "$2b$12$aCPuIqciNdkcoz5/N.hQIulaOYtTA5zkYV9JmqfmXHdhhRkqgaZMG",
+  "phone": "084673491572",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-10T11:19:16.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:29:58.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a4da8a2b16c994500380b9"
+  },
+  "guid": "surveyor-ac1ed730-fdda-45bd-8c8b-c655281e075c",
+  "email": "dev@dev.id",
+  "name": "Developer",
+  "password": "$2b$10$Bu736ezkzeoQs034dus7c.p8hu.FGYAMoziGhSTKg1EDu3.Jz40a6",
+  "phone": "088123456789",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-15T14:11:06.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T14:11:06.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5eea02b16c99450038104"
+  },
+  "guid": "surveyor-0b837ebf-f38e-44ab-98a9-363e2dc9b312",
+  "email": "dona.velintina3@gmail.com",
+  "name": "DONA VL",
+  "password": "$2b$12$0OZ8EUSMYivELykUKQt4HexLebUOPOCN6Ly96d9TP5w0uRxKeEiAG",
+  "phone": "081271869736",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T09:49:04.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T09:49:04.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5fb452b16c9945003813c"
+  },
+  "guid": "surveyor-eb43b42c-8f77-4559-b9a6-adc4035c1b24",
+  "email": "yuzly.gee@gmail.com",
+  "name": "WAHYU ZULYA",
+  "password": "$2b$12$MgsKn4ppJPhxHCBUGBHW1O/5Y2wSrXHrDfb/ZgDYPeIStVIDymQU.",
+  "phone": "081297670727",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T10:43:01.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T10:57:59.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a613fd2b16c9945003835e"
+  },
+  "guid": "superAdmin-5cedd48a-7fe1-4b7e-8185-0a5a09ac1f05",
+  "email": "superAdmin123@pptik.id",
+  "name": "Asep Trisna Setiawan",
+  "password": "$2b$12$2fvvsdoXbzf5j/yxXXWoxuykFwJtfewHpIJ8HuEO7TkUQcIwKaq1q",
+  "phone": "333",
+  "guidApplication": [
+    "module-181e1840-d3cf-4bbb-a82d-885707088cb7"
+  ],
+  "role": "superAdmin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T12:28:29.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T12:28:29.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a61d502b16c99450038382"
+  },
+  "guid": "surveyor-64eb2b5b-9ef0-414b-9f99-837702d0edec",
+  "email": "aseptrisna1995@gmail.com",
+  "name": "ASEP TRISNA SETIAWAN",
+  "password": "$2b$10$sQZiuShoyj0UQVrgAsSF9Og4E8Xay1IUoOau9rf4FbSGMLc0Hc6o2",
+  "phone": "0822831994848",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T13:08:16.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T09:52:52.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a61f762b16c9945003838b"
+  },
+  "guid": "surveyor-d7388d97-7742-465c-a31f-05ef2f62b582",
+  "email": "asep.iot@ubl.ac.id",
+  "name": "Asep Trisna Setiawan",
+  "password": "$2b$10$reshE2srr6AVMJ.bmLqLFuYyPtxbdOxPYETRDFITgqWib0Nnn1FdW",
+  "phone": "0822831985648",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T13:17:26.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T13:17:26.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6252c2b16c9945003839d"
+  },
+  "guid": "surveyor-986afa7d-9d12-4cfc-99dc-cc7a5cc85de5",
+  "email": "yuzly.gii@gmail.com",
+  "name": "WAHYU Z",
+  "password": "$2b$12$XAKPPoqGzbdFsEUVvwIJb.Dfu2kOXHP3P2l3XNDT.9bB1xdWDfz5S",
+  "phone": "081297670758",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T13:41:48.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T14:15:46.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a62bc72b16c994500383cf"
+  },
+  "guid": "surveyor-e4e5f856-17d4-41d4-875f-acf8973b483a",
+  "email": "r1smawan024@gmail.com",
+  "name": "Riswandha Imawan1",
+  "password": "$2b$12$Q4DMhcHYSFUvprXREaXuY.p.yWi5p24tIe/wtKgrPhCpUblzc92eC",
+  "phone": "085157933091",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T14:09:59.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T14:20:45.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a633782b16c99450038439"
+  },
+  "guid": "surveyor-f46a62f6-7c9d-41f9-8d34-91f77bf93f11",
+  "email": "yuzly.goo@gmail.com",
+  "name": "yu",
+  "password": "$2b$12$BJ5Luj/mhBTmknyof8E2eubJn7bloqb986hPV/tSMVTsb5O999b5y",
+  "phone": "081234321245",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T14:42:48.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T14:42:48.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a633dc2b16c99450038442"
+  },
+  "guid": "admin-8acd0f30-37f5-48ce-8d36-c2eee612965a",
+  "email": "yuzly.gool@gmail.com",
+  "name": "yu",
+  "password": "$2b$12$/lRitQ0XyyJybe80N74cM./WiEeZLvWcAUHZeNh0RjHqsmZFAZQhG",
+  "phone": "0876543567877",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T14:44:28.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T14:44:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a635182b16c99450038451"
+  },
+  "guid": "surveyor-48313e68-5029-476d-be92-399642d71c7f",
+  "email": "asepts@gmail.com",
+  "name": "Asep sdfsa",
+  "password": "$2b$12$CF7yyTs8e.gjA6lE90LhjuEt5xpNUpKhJUEJb0EqeJlPr9rLRPjHW",
+  "phone": "082284546786",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T14:49:44.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T15:18:08.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a638032b16c99450038468"
+  },
+  "guid": "surveyor-1644157b-27db-4d58-b521-dd35595f718f",
+  "email": "dona.velintina6@gmail.com",
+  "name": "DONA VL",
+  "password": "$2b$12$AHn5vontVC.CwvQswPEzEuMP1.Ipp3DHoDIorb3Ux3LCGTBKuqTym",
+  "phone": "08126497054564",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-16T15:02:11.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T15:02:11.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a730a42b16c994500384cc"
+  },
+  "guid": "divisi-edb4d4de-c3d3-4d7a-bde1-fb31d63a99fc",
+  "email": "software.creative.indonesia@gmail.com",
+  "name": "Asep Trisna Setiawan",
+  "password": "$2b$12$H90AhVhLfFKqJs/kLzmuYOlXPULPRFzxldwci3O8Oy0ny4tAj8QDa",
+  "phone": "082283655252",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-17T08:43:00.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T14:59:30.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8653a2b16c994500385d4"
+  },
+  "guid": "surveyor-70570450-5077-4498-a1cd-72a679b713be",
+  "email": "asep95@ubl.ac.id",
+  "name": "ASEP TRISNA SETIAWAN",
+  "password": "$2b$12$lRE/vp4gupK8lSGqd1U9VutP2TOGYJuPJgmwlup3LQ5Eq5vREDjTW",
+  "phone": "085434649",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-18T06:39:38.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T06:39:38.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a888112b16c9945003862a"
+  },
+  "guid": "surveyor-907f52c2-1796-4aab-8cac-0d3bce41b87e",
+  "email": "rainaramadhani7@gmail.com",
+  "name": "RERE",
+  "password": "$2b$12$vMQzw9K6AnmuFpNntVPIceHUHqJcxnV5.bOLKcFTJFmH0wVBdBOoa",
+  "phone": "081808984565",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-18T09:08:17.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T09:08:17.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8a80f2b16c9945003876a"
+  },
+  "guid": "surveyor-166734ff-0361-4776-96b1-ad6835d406f4",
+  "email": "novianti.resmi@gmail.com",
+  "name": "RESMI N",
+  "password": "$2b$12$g9ZR5dCudaREw8XDKzqAkOTWsctuKAfB9NTlhBWSacwxuz0lirvNG",
+  "phone": "081291337278",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-18T11:24:47.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T11:24:47.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b0b8062b16c994500389ac"
+  },
+  "guid": "surveyor-819a87e7-efeb-483b-a292-624087fe5eb7",
+  "email": "asepcs@pptik.id",
+  "name": "Asep Trisna Setiawan",
+  "password": "$2b$12$PVlHoB45G/7Vfd4MaawD3uTVnY9v9LSyxy17XAzGdWjCVlP0pG2l2",
+  "phone": "08546404659",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-24T14:11:02.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T14:11:02.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1cb392b16c99450038a46"
+  },
+  "guid": "surveyor-b4f094a2-3afe-4f6a-a879-b5e7c6cda0d9",
+  "email": "shoya@gmail.com",
+  "name": "Teknis",
+  "password": "$2b$12$MnEzJPZJbOQHUuQjmoP6ZudsVUfq5X0EwI.stsVG/QVxLX.MzJH.6",
+  "phone": "081224501877",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-01-25T09:45:13.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T09:45:13.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ddb9e03ed16e69e19ee1b8"
+  },
+  "guid": "surveyor-eb3a35fb-1a9a-4ae4-a8fc-220181a53626",
+  "email": "sukmayana@gmail.com",
+  "name": "INDRA S",
+  "password": "$2b$12$8gAMdLpimybHdBhUS1jqiet7UGPdbNNRRIpj4dGBHvPK8fsYwcls.",
+  "phone": "081221003814",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-02-27T17:30:56.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T18:20:34.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641be1243756a65ef720ef4"
+  },
+  "guid": "surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c",
+  "email": "mrfahreza08@gmail.com",
+  "name": "MUHAMMAD RIZKI FAHREZ",
+  "password": "$2b$10$f6c6h3uqGThEEtg7ZTDQQ.9mR9Wx2CTWikt3eZ3DfbXtzVKs6GLiq",
+  "phone": "02175467979",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-13T14:15:30.624Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-13T14:15:30.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66436aaa8917d9721a32a934"
+  },
+  "guid": "surveyor-44c20eeb-65fd-40e8-851e-449512b95d71",
+  "email": "test666@gmail.com",
+  "name": "TEST 1",
+  "password": "$2b$12$tr/pxwY8vnHzyYkdHVFM5.3gYF5zYWXpPnakZoCpSuW3SoWo3rVzG",
+  "phone": "0856666666",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-14T20:44:10.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T20:44:10.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664409568917d9721a32a965"
+  },
+  "guid": "surveyor-703e868c-7e87-44b0-a9d1-88f89c1912d5",
+  "email": "draft1@mail.com",
+  "name": "DRAFT1",
+  "password": "$2b$12$wMyfmg4Ho.pKm6tF4K4Ebe4YNi4cihGOztgX4xxYxm2TXILD2xfuO",
+  "phone": "1",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-15T08:01:10.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T09:34:13.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6644251e8917d9721a32a9b3"
+  },
+  "guid": "surveyor-b8466a03-fb6a-4b83-99c7-785b03aee04a",
+  "email": "uat15@mail.com",
+  "name": "Uat15",
+  "password": "$2b$12$AIhVnzHhRnK86Kn9qsieaOFET78KdMd1wrORdtxOdgREBKMEskAm2",
+  "phone": "1",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-15T09:59:42.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T10:25:38.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66442c058917d9721a32a9cc"
+  },
+  "guid": "surveyor-968176e2-1695-40e3-bbe7-640b5b07b678",
+  "email": "uat156@mail.com",
+  "name": "1",
+  "password": "$2b$12$J4hPSJEpfE4/.j6Slj1J2uPHpNNUj.vWFZntEbHVF2QM07hHGz/AW",
+  "phone": "0",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-15T10:29:09.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-24T14:15:35.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664454808917d9721a32aa0c"
+  },
+  "guid": "divisi-bf8507df-56fc-4ca2-be65-938ce0ac3211",
+  "email": "uat12@mail.com",
+  "name": "1",
+  "password": "$2b$12$UKQYIWH52Pa6Rke4Eb9oeueIYjgz9UwFVBprfNcUUR8bXAKOo/7bC",
+  "phone": "1",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-15T13:21:52.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T08:11:45.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665541b448008d49febe0f62"
+  },
+  "guid": "surveyor-b7e58da9-1e1d-477a-b8e0-f7bf09beb0f1",
+  "email": "syifatulkhazanah25@gmail.com",
+  "name": "Agung Yusuf Wibowo",
+  "password": "$2b$12$63HdJM0MGVfN8PvAH2WT4OpjI7OQKxm85SbU84gxEpPrX9NBbCYqq",
+  "phone": "0881243768949",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T09:30:12.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T14:38:11.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665554a957dc4128893fa995"
+  },
+  "guid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "email": "muhammadrizkifahreza08@gmail.com",
+  "name": "MUHAMMAD RIZKI FAHREZA",
+  "password": "$2b$12$QJyB/FQ277rA.FGwUPCY7evA38BPEbUVZvAJixjDtttZGSW0eNgTi",
+  "phone": "0217919767",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T10:51:05.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:31:08.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655640019b9d4a5fcc334c3"
+  },
+  "guid": "divisi-bc1c7f80-63e5-4eef-914b-6ba8f700d1fe",
+  "email": "faizakailanik@gmail.com",
+  "name": "Faiza Kailani Kuswanto",
+  "password": "$2b$12$rb/NszhnQdgkdKji0ZRt6e8HMBA9rZuJ8oYzcBU.Q6J0sWkjwmBRm",
+  "phone": "089874981623746",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T11:56:32.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:56:32.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66557ab119b9d4a5fcc334fa"
+  },
+  "guid": "surveyor-556c064f-a2aa-41af-9510-c38511738283",
+  "email": "masundareza@gmail.com",
+  "name": "MUHAMMAD RIZKI FAHREZA",
+  "password": "$2b$12$JjkkU/8pCEJNMIvvqehae.Y3DUy.CO/3hB9.yOXViwkzUK5dvV8py",
+  "phone": "12",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T13:33:21.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T13:33:21.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66557ee619b9d4a5fcc33502"
+  },
+  "guid": "surveyor-fc7097e9-e43a-45db-97e4-8b115e4dd317",
+  "email": "saya@gmail.com",
+  "name": "SAYA ORANG",
+  "password": "$2b$12$TiuAQbn2yXeUFLjIVq.hDeb.pPa4YRvdxXH5A0K8R/n25.6Phcy0u",
+  "phone": "017676",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T13:51:18.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T13:51:18.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66557f2719b9d4a5fcc33506"
+  },
+  "guid": "surveyor-c017f7f3-35cb-4068-8b20-b9eca934e42a",
+  "email": "hdmi@gmail.com",
+  "name": "KABEL HDMI",
+  "password": "$2b$12$Z6/nFHmDBZOAerK1l7IEueWVtUTb04R/bwP5jeSn.6oSzibZ2zcCu",
+  "phone": "02454",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T13:52:23.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T13:52:23.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66557f6d19b9d4a5fcc3350a"
+  },
+  "guid": "surveyor-6f47a070-df7e-4af6-b407-149e10f4ea00",
+  "email": "reina@gmail.com",
+  "name": "REINA",
+  "password": "$2b$12$nanqD5MLDAkyYW4HuJuml.tjYf0zARJ5/Svr3XpdFj0EUri5WYe1C",
+  "phone": "8265780096",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-28T13:53:33.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T16:18:04.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d6ad6dc0a9dbbd202372"
+  },
+  "guid": "surveyor-85dfba60-d9f4-484a-a4cf-94df8451c294",
+  "email": "eja@gmail.com",
+  "name": "RIZKI FAHREZA",
+  "password": "$2b$12$w24uApKw0e37Gr0M52db/.4oYedlSBBQ4hKFpXN47g1RgUnPbaYdG",
+  "phone": "0275461",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-05-29T14:18:05.077Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T14:18:05.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665cf6d7fa56c5458ea19256"
+  },
+  "guid": "surveyor-753266f9-5fcb-4986-97a8-717644ec4658",
+  "email": "dev20@dev.id",
+  "name": "Developer 20",
+  "password": "$2b$12$UKV8GYhJvz9owNBGCQLhaOgBrYv7Tp/OyIuHlYaIwhFlXb8mv12G2",
+  "phone": "0822858489985",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-03T05:48:55.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T05:48:55.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d0169fa56c5458ea19278"
+  },
+  "guid": "surveyor-7f75c73e-2a68-4dc3-ad7e-9c7066f08a2e",
+  "email": "dev21@dev.id",
+  "name": "DEVELOPER ",
+  "password": "$2b$12$TW.g.EpdmI5XHaBNAl1PpeOOzyIfarOj3Xy9nWYfXgfCkkzhX5PSO",
+  "phone": "027851286",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-03T06:34:01.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T06:34:01.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d2c6bfa56c5458ea19368"
+  },
+  "guid": "surveyor-fae6876e-63c1-4ead-b6c8-84bb6001893b",
+  "email": "kwlagung@gmail.com",
+  "name": "Agung Yusuf Wibowo",
+  "password": "$2b$10$ezRvWMXw/G8kmYttIt6GV.XKASXSbAyNHLb/TmYvbkgHX/QNfY1VG",
+  "phone": "0882186324553",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-03T09:37:31.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:37:31.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ebd76fa56c5458ea194cf"
+  },
+  "guid": "surveyor-752caa6b-6334-4678-ab3b-1bbc006ea125",
+  "email": "dev2@dev.id",
+  "name": "Developer",
+  "password": "$2b$10$RSa3vScj7iDn/FBbnLKi1eQiMu5cPiQsFjJWSgWbFDkev8Dm3dNQG",
+  "phone": "0881343549437",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-04T14:08:38.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T14:08:38.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666665f4fa56c5458ea19626"
+  },
+  "guid": "surveyor-0b76ca82-d099-4f1f-9c44-e80b41ce8877",
+  "email": "1@gmail.com",
+  "name": "1",
+  "password": "$2b$12$TZuTlBCZSjyo6JXKLT5OIeekYivcNrF7zKi9RyCGWiKRyC.CGChZu",
+  "phone": "5",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-10T09:33:24.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-10T15:06:30.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66739371fa56c5458ea19711"
+  },
+  "guid": "surveyor-af0d981b-2355-4da4-8a1b-b3a949e94f35",
+  "email": "3@mail.com",
+  "name": "*",
+  "password": "$2b$12$7U067JgplQozfvw7osXJv.UpFIJujpsUFE/vjOeHLMSQkX7sF7w6C",
+  "phone": "08764521567",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-20T09:26:57.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:25:26.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66752557fa56c5458ea19797"
+  },
+  "guid": "surveyor-05acbd6c-fe02-4ef3-9a6b-f9227ac163e5",
+  "email": "dev21@gmail.com",
+  "name": "DEVELOPEr",
+  "password": "$2b$12$9Jy2SD52w7RPcddiBykpnO2tL84Qia9lGsObXetoGAbwY7V5pT4xO",
+  "phone": "02473461954",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-21T14:01:43.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:39:47.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a292cfa56c5458ea198ad"
+  },
+  "guid": "divisi-ee284e05-dcf2-4b3b-967a-98b03626c331",
+  "email": "mail@mail.com",
+  "name": "mail",
+  "password": "$2b$12$VUbqD5GhMHWe61NLGNPEK.xs7/OYalNSJn3JVeMBvpkpVEHfJsa3S",
+  "phone": "08",
+  "guidApplication": [
+    "module-18b02216-4956-48bb-8262-ec8a44226783"
+  ],
+  "role": "divisi",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-25T09:19:24.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T09:19:24.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687b1886eb8fbbd48504026"
+  },
+  "guid": "surveyor-2fe6d421-1ee9-42c4-816c-adf1505d743f",
+  "email": "dev22@dev.com",
+  "name": "vgv",
+  "password": "$2b$12$fPleA4xSCN5qx9OLmKQ.3OE9auNIzREah.H3mp2J6O5MVfr/tZRZ2",
+  "phone": "0572464840",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-05T15:40:40.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T16:01:55.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66974d296eb8fbbd485041f0"
+  },
+  "guid": "surveyor-54be6847-8f29-4f01-8971-9973ea1d9081",
+  "email": "reza@gmail.com",
+  "name": "Developer",
+  "password": "$2b$12$wdE7G6ZDmygdZz9qsa5Lz.hKK8iCsLCSLKA.d6S6ZO64h/xPSXcSi",
+  "phone": "085156093318",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-17T11:48:41.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T11:48:41.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a1995a9de2ca7ad8d3d2f"
+  },
+  "guid": "surveyor-c8d9e5f0-1daa-44ba-a296-049c6e7c2e54",
+  "email": "devdt@dev.com",
+  "name": "Rizki Fahreza",
+  "password": "$2b$12$ixStppWPkjJVFwu.B9BsLes3z5Wr0Q7Go7twrzDhDevGW7OKRBBrm",
+  "phone": "085156093310",
+  "guidApplication": [
+    "module-e35055dd-f161-4150-b5f8-8b71e17ca21b"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-19T14:45:25.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T14:45:25.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b991c3c1babe1ff501b51b"
+  },
+  "guid": "surveyor-e8e7fb5f-44cf-4ebb-b961-96ca17239a44",
+  "email": "kanggoremot@gmail.com",
+  "name": "SSS",
+  "password": "$2b$10$HJPSGzQKEcoS/Hn.MgMU7epqPx2zlKi28VGYLSxDRhr9YOVhjzRym",
+  "phone": "0852599",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:38:27.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:38:27.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb138125a0268dc1285582"
+  },
+  "guid": "surveyor-1951dd24-5dc3-460f-b915-0a806c3df919",
+  "email": "cetakpeta@gmail.com",
+  "name": "CETAKPETA",
+  "password": "$2b$12$SBDhvqxluvstdPfsg03qvOzEmldLSxO46VXPySCqp6.jqZD3NzW5W",
+  "phone": "0854216948",
+  "guidApplication": [
+    "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-13T15:04:17.858Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T15:04:17.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb160febd0bf62398e86fb"
+  },
+  "guid": "surveyor-d2c3deb1-830c-4fe1-a8f0-852fd86299bc",
+  "email": "caul@pptik.id",
+  "name": "ASEP TRISNA SETIAWAN",
+  "password": "$2b$12$RSwE6md/ORDXWelXK/Qin.RN.7HMbCuXv0n5DS00tP1Ci.Uqnx21K",
+  "phone": "+6282283198126",
+  "guidApplication": [
+    "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-13T15:15:11.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T15:15:11.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc29ba4c4d54e8cc153ff1"
+  },
+  "guid": "surveyor-954abfe9-1dd8-45a8-a38c-663626dced45",
+  "email": "sumur@gmail.com",
+  "name": "Sumur",
+  "password": "$2b$12$GSpWiJyTt.EeteB1Cf/bW.e1GdmbF1I27USoL5OX2tDAcIwunLmqa",
+  "phone": "08764654387",
+  "guidApplication": [
+    "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af"
+  ],
+  "role": "surveyor",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-14T10:51:22.876Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T10:51:22.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c2ce4cf014475691c5ae11"
+  },
+  "guid": "pengguna-8b295904-8738-4e9b-b66a-c3fec5514cb4",
+  "email": "ajicooljazz38@gmail.com",
+  "name": "aji",
+  "password": "$2b$12$r7bMrRyNXl/QhYlWkSKYWObPORnsJBTOBiIRYgFAZPs4EHQbIjgSO",
+  "phone": "085695951121",
+  "guidApplication": [
+    "module-e32f73a5-fd9d-4020-b256-35cc38b00928"
+  ],
+  "role": "pengguna",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-19T11:47:08.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T11:47:08.187Z"
+  },
+  "__v": 0
+}]

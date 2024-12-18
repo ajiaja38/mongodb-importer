@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "655ec33206e732aacefc56db"
+  },
+  "guid": "module-181e1840-d3cf-4bbb-a82d-885707088cb7",
+  "name": "Georima Portal",
+  "createdAt": {
+    "$date": "2023-11-23T10:12:50.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T20:19:09.537Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703180780985-Portal Informasi GeoRIMA.png",
+  "urlApp": "https://georima.pptik.id/",
+  "urlWeb": "https://georima.pptik.id/",
+  "description": "Georima Portal adalah sebuah platform inovatif yang secara komprehensif menyajikan layanan dan informasi terkait georima, membawa pengguna dalam pengalaman yang mendalam dan terintegrasi dengan dunia geospatial. Melalui antarmuka yang intuitif dan ramah pengguna, portal ini menawarkan akses cepat dan mudah ke berbagai layanan serta data georima yang relevan"
+},
+{
+  "_id": {
+    "$oid": "655ed436972ca877d0cc1c62"
+  },
+  "guid": "module-e32f73a5-fd9d-4020-b256-35cc38b00928",
+  "name": "Georima Map",
+  "createdAt": {
+    "$date": "2023-11-23T11:25:26.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T09:57:18.215Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703213804050-GeoRIMA MAP.png",
+  "urlApp": "https://georima-map.pptik.id/",
+  "urlWeb": "https://georima-map.pptik.id/",
+  "description": "Georima Map adalah sebuah platform GIS (Sistem Informasi Geografis) yang menghadirkan sumber daya potensi dalam bentuk yang interaktif dan terkini. Dirancang untuk memenuhi kebutuhan analisis dan pemetaan, Georima Map menyajikan informasi sumber daya potensi secara visual melalui peta yang dapat diakses dengan mudah. Berikut adalah beberapa fitur utama yang ditawarkan oleh Georima Map"
+},
+{
+  "_id": {
+    "$oid": "65641affa4793c4369458b9c"
+  },
+  "guid": "module-a2a0dd5d-c572-4ada-ad24-c4aed28188af",
+  "name": "Hasil Pengeboran PSDMBP",
+  "createdAt": {
+    "$date": "2023-11-27T11:28:47.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T11:36:13.542Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703212033610-SumurPanasBumi.png",
+  "urlApp": "https://georima-spb.pptik.id/",
+  "urlWeb": "https://georima-spb.pptik.id/",
+  "description": "Monitoring sumur panas bumi (geotermal) merupakan langkah kritis dalam menjaga dan mengoptimalkan produksi energi panas bumi. Proses monitoring ini melibatkan pengumpulan data secara terus-menerus untuk memahami kondisi sumur, kinerja reservoir panas bumi, dan potensi masalah operasional. Berikut adalah beberapa aspek penting dalam monitoring sumur panas bum"
+},
+{
+  "_id": {
+    "$oid": "65641b0aa4793c4369458b9f"
+  },
+  "guid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "name": "Pengaduan Sarana Prasarana",
+  "createdAt": {
+    "$date": "2023-11-27T11:28:58.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T02:07:24.879Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703181712317-Pengaduan Sarana dan Prasarana.png",
+  "urlApp": "https://georima-psp.pptik.id",
+  "urlWeb": "https://georima-psp.pptik.id",
+  "description": "Proses pengaduan sarana prasarana internal merupakan mekanisme yang dapat digunakan oleh anggota tim atau karyawan untuk melaporkan masalah, kekurangan, atau perbaikan yang diperlukan terkait dengan fasilitas dan infrastruktur di dalam organisasi. Berikut adalah panduan umum tentang bagaimana Anda dapat mengatur sistem pengaduan sarana prasarana internal"
+},
+{
+  "_id": {
+    "$oid": "65641b11a4793c4369458ba2"
+  },
+  "guid": "module-e35055dd-f161-4150-b5f8-8b71e17ca21b",
+  "name": "Dokumen Teknis",
+  "createdAt": {
+    "$date": "2023-11-27T11:29:05.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T11:47:07.811Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703181805958-Dokumentasi Teknis.png",
+  "urlApp": "https://georima-dk.pptik.id/",
+  "urlWeb": "https://georima-dk.pptik.id/",
+  "description": "Test hfmh,j,n.,n.n.n.ljlj/lj/j./jk,bj,bj,b dghdghfj"
+},
+{
+  "_id": {
+    "$oid": "65641b19a4793c4369458ba5"
+  },
+  "guid": "module-ac076bf7-7ddb-49b8-82dc-ab67cb6bed4d",
+  "name": "Layanan Produk Geologi",
+  "createdAt": {
+    "$date": "2023-11-27T11:29:13.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T02:08:12.911Z"
+  },
+  "__v": 0,
+  "urlApp": "https://georima-lpg.pptik.id/",
+  "icon": "https://georima.pptik.id/data/file/1703181908994-Layanan Cetak Peta.png",
+  "urlWeb": "https://georima-lpg.pptik.id/",
+  "description": "Menghadirkan layanan produk geologi secara online merupakan langkah progresif untuk meningkatkan aksesibilitas, efisiensi, dan keterlibatan pengguna dalam industri geologi. Berikut adalah beberapa aspek yang perlu dipertimbangkan dalam menyediakan layanan produk geologi secara online"
+},
+{
+  "_id": {
+    "$oid": "65641b21a4793c4369458ba8"
+  },
+  "guid": "module-5824f16c-1536-434b-ad55-baff7b5a6e05",
+  "name": "Kepuasan Pelanggan",
+  "createdAt": {
+    "$date": "2023-11-27T11:29:21.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T09:59:03.880Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703213917737-Rating.png",
+  "urlApp": "https://play.google.com/store/apps/details?id=id.pptik.kawal_petani&pcampaignid=web_share",
+  "urlWeb": "https://example.com",
+  "description": "Meningkatkan kepuasan pelanggan adalah kunci untuk mempertahankan dan memperluas basis pelanggan, serta meningkatkan reputasi perusahaan. Berikut adalah beberapa strategi untuk meningkatkan kepuasan pelanggan"
+},
+{
+  "_id": {
+    "$oid": "65641b28a4793c4369458bab"
+  },
+  "guid": "module-18b02216-4956-48bb-8262-ec8a44226783",
+  "name": "Laporan Kinerja dan laporan Tahunan",
+  "createdAt": {
+    "$date": "2023-11-27T11:29:28.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T11:45:53.504Z"
+  },
+  "__v": 0,
+  "icon": "https://georima.pptik.id/data/file/1703213854171-Kinerja Tahunan.png",
+  "urlApp": "https://georima-laporan-tahunan.pptik.id/",
+  "urlWeb": "https://georima-laporan-tahunan.pptik.id/",
+  "description": "Laporan Kinerja dan Laporan Tahunan adalah dokumen penting yang memberikan gambaran menyeluruh tentang kinerja dan pencapaian suatu organisasi selama periode tertentu. Meskipun keduanya sering digunakan secara bergantian, ada beberapa perbedaan antara keduanya"
+}]

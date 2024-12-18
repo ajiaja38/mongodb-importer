@@ -1,0 +1,399 @@
+[{
+  "_id": {
+    "$oid": "659cb1bbc4f361958edcc78d"
+  },
+  "guid": "9d80159a-d657-4a8a-bf9f-ea2bcee56459",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-8b31487b-69e9-407b-a239-8b23e2b254e1",
+  "reporterName": "AGUNG YUSUF WIBOWO",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-8b31487b-69e9-407b-a239-8b23e2b254e1-1704767928-GEORIMA.jpg",
+  "timestamp": 1704767931,
+  "description": "Deskripsi",
+  "latitude": -6.9293504,
+  "longitude": 107.6268558,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 2,
+  "createdAt": {
+    "$date": "2024-01-09T02:38:51.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a4ad46c4f361958edcc80e"
+  },
+  "guid": "710dca4e-c858-4c54-a229-d65a57fa3a0b",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-9f443106-e3fe-45a2-b647-deb64b3d9e92",
+  "reporterName": "DEVELOPER 12",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-9f443106-e3fe-45a2-b647-deb64b3d9e92-1705291074-GEORIMA.jpg",
+  "timestamp": 1705291078,
+  "description": "Monitor Rusak",
+  "latitude": -6.9293558,
+  "longitude": 107.6268613,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-15T03:57:58.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a4afb7c4f361958edcc820"
+  },
+  "guid": "5edc2686-8599-4693-87e7-897434fb18eb",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-9f443106-e3fe-45a2-b647-deb64b3d9e92",
+  "reporterName": "DEVELOPER 12",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-9f443106-e3fe-45a2-b647-deb64b3d9e92-1705291700-GEORIMA.jpg",
+  "timestamp": 1705291704,
+  "description": "Monitor Rusak",
+  "latitude": -6.9293438,
+  "longitude": 107.626841,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-15T04:08:23.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a5ef5ec4f361958edcc838"
+  },
+  "guid": "e9d6da30-4d48-42a0-863f-758a60b0fba6",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-0b837ebf-f38e-44ab-98a9-363e2dc9b312",
+  "reporterName": "DONA VL",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-0b837ebf-f38e-44ab-98a9-363e2dc9b312-1705373531-GEORIMA.jpg",
+  "timestamp": 1705373534,
+  "description": "this is phone",
+  "latitude": -5.4151647,
+  "longitude": 105.258799,
+  "address": "Jl. Raden Intan No.51, Enggal, Engal, Kota Bandar Lampung, Lampung, Indonesia.40111",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-16T02:52:14.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a5fc6ac4f361958edcc85d"
+  },
+  "guid": "9da05480-e3cb-4b44-97c0-3d80c3494b4f",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-eb43b42c-8f77-4559-b9a6-adc4035c1b24",
+  "reporterName": "WAHYU ZULYA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-eb43b42c-8f77-4559-b9a6-adc4035c1b24-1705376871-GEORIMA.jpg",
+  "timestamp": 1705376874,
+  "description": "test purpose",
+  "latitude": -6.9293437,
+  "longitude": 107.626833,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-16T03:47:54.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a8658fc4f361958edcc8cf"
+  },
+  "guid": "09e7363b-9a83-4d37-95e5-8ebe7222c7ba",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-70570450-5077-4498-a1cd-72a679b713be",
+  "reporterName": "ASEP TRISNA SETIAWAN",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-70570450-5077-4498-a1cd-72a679b713be-1705534862-GEORIMA.jpg",
+  "timestamp": 1705534863,
+  "description": "Meja Rusak",
+  "latitude": -6.9293392,
+  "longitude": 107.6268458,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 2,
+  "createdAt": {
+    "$date": "2024-01-17T23:41:03.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a890c7d426ceae93ca97cb"
+  },
+  "guid": "fdbbb3a0-824f-4924-94c7-89678e1ec146",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-70570450-5077-4498-a1cd-72a679b713be",
+  "reporterName": "ASEP TRISNA SETIAWAN",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-70570450-5077-4498-a1cd-72a679b713be-1705545925-GEORIMA.jpg",
+  "timestamp": 1705545927,
+  "description": "meja rusak",
+  "latitude": -6.9293355,
+  "longitude": 107.626819,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-18T02:45:27.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a89e2cd426ceae93ca9824"
+  },
+  "guid": "037b322f-139f-4ca6-bb3e-426ceed48015",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-70570450-5077-4498-a1cd-72a679b713be",
+  "reporterName": "ASEP TRISNA SETIAWAN",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-70570450-5077-4498-a1cd-72a679b713be-1705549355-GEORIMA.jpg",
+  "timestamp": 1705549356,
+  "description": "ada kursi rusak di lantai 4 Gedung A\n",
+  "latitude": -6.9293369,
+  "longitude": 107.6268212,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-01-18T03:42:36.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ddbc9c3aca35b7021d99b8"
+  },
+  "guid": "69b72f1d-5e27-4329-b555-ae1f9a18c8b1",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-eb3a35fb-1a9a-4ae4-a8fc-220181a53626",
+  "reporterName": "INDRA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-eb3a35fb-1a9a-4ae4-a8fc-220181a53626-1709030549-GEORIMA.jpg",
+  "timestamp": 1709030557,
+  "description": "ball poin habis tinta",
+  "latitude": -6.7172649,
+  "longitude": 108.5497367,
+  "address": "Jl. DR. Cipto Mangunkusumo No.26, Pekiringan, Kecamatan Kesambi, Kota Cirebon, Jawa Barat, Indonesia.45131",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-02-27T10:42:36.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ddc1c53aca35b7021d99d0"
+  },
+  "guid": "b2510198-1c56-4fd8-a465-8fe821ff44a9",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-eb3a35fb-1a9a-4ae4-a8fc-220181a53626",
+  "reporterName": "INDRA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-eb3a35fb-1a9a-4ae4-a8fc-220181a53626-1709031874-GEORIMA.jpg",
+  "timestamp": 1709031878,
+  "description": "mouse tidak berfungsi.",
+  "latitude": -6.7177281,
+  "longitude": 108.5496491,
+  "address": "Jl. DR. Cipto Mangunkusumo No.17, Pekiringan, Kecamatan Kesambi, Kota Cirebon, Jawa Barat, Indonesia.45131",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-02-27T11:04:37.952Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641be4cbfff1d49c8b69633"
+  },
+  "guid": "a4d98cfa-9c01-4f0b-985f-3def8781fe92",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c",
+  "reporterName": "MUHAMMAD RIZKI FAHREZ",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c-1715584586-GEORIMA.jpg",
+  "timestamp": 1715584589,
+  "description": "Develope",
+  "latitude": -6.9293308,
+  "longitude": 107.6268656,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-13T07:16:28.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66440a2fbfff1d49c8b69651"
+  },
+  "guid": "aa09c0c3-c9a0-4119-8507-d2be7db875a7",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-703e868c-7e87-44b0-a9d1-88f89c1912d5",
+  "reporterName": "DRAFT1",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-703e868c-7e87-44b0-a9d1-88f89c1912d5-1715735085-GEORIMA.jpg",
+  "timestamp": 1715735088,
+  "description": "meja kerja",
+  "latitude": -6.9497452,
+  "longitude": 107.6205693,
+  "address": "3J2C+427, Pasirluyu, Kecamatan Regol, Kota Bandung, Jawa Barat, Indonesia.40254",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-15T01:04:47.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66555e551c39bedb854aff97"
+  },
+  "guid": "0965876c-4d8b-4437-a1d2-7ff5d6ffd33c",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "reporterName": "MUHAMMAD RIZKI FAHREZA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870-1716870740-GEORIMA.jpg",
+  "timestamp": 1716870742,
+  "description": "perbaikan keyboard",
+  "latitude": -6.9292917,
+  "longitude": 107.6267981,
+  "address": "Jl. Pelajar Pejuang 45 No.45, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-28T04:32:21.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66555f0a1c39bedb854aff9f"
+  },
+  "guid": "5d4c8446-5b0c-4ec2-a214-644c4e273501",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "reporterName": "MUHAMMAD RIZKI FAHREZA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870-1716870921-GEORIMA.jpg",
+  "timestamp": 1716870923,
+  "description": "perbaikan keyboard 2\n",
+  "latitude": -6.9293186,
+  "longitude": 107.6267597,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-28T04:35:22.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66555f291c39bedb854affa3"
+  },
+  "guid": "0c12c12a-b68f-451c-b94d-ddd842b27e50",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "reporterName": "MUHAMMAD RIZKI FAHREZA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870-1716870952-GEORIMA.jpg",
+  "timestamp": 1716870954,
+  "description": "perbaikan keyboard 3\n",
+  "latitude": -6.9293243,
+  "longitude": 107.626807,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-28T04:35:53.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66555f401c39bedb854affa7"
+  },
+  "guid": "2e686a6a-f279-4d5b-9267-c8be3ef10cc2",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "reporterName": "MUHAMMAD RIZKI FAHREZA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870-1716870975-GEORIMA.jpg",
+  "timestamp": 1716870977,
+  "description": "perbaikan keyboard 4\n",
+  "latitude": -6.9293298,
+  "longitude": 107.6266759,
+  "address": "Jl. Pelajar Pejuang 45 No.45, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-28T04:36:16.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66555f791c39bedb854affab"
+  },
+  "guid": "66630ab4-3e70-4dde-ab5b-d062c7022dbb",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870",
+  "reporterName": "MUHAMMAD RIZKI FAHREZA",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-ff22b28a-4795-48d9-b92a-7e3140de2870-1716871031-GEORIMA.jpg",
+  "timestamp": 1716871033,
+  "description": "perbaikan keyboard 5",
+  "latitude": -6.9293345,
+  "longitude": 107.6267031,
+  "address": "Jl. Pelajar Pejuang 45 No.45, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-05-28T04:37:13.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf3bb1c39bedb854b008f"
+  },
+  "guid": "294b01ed-8774-404b-8dde-54e8a145301a",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c",
+  "reporterName": "MUHAMMAD RIZKI FAHREZ",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c-1717367737-GEORIMA.jpg",
+  "timestamp": 1717367740,
+  "description": "testing hari senin 3 June",
+  "latitude": -6.9266536,
+  "longitude": 107.6263362,
+  "address": "Jl. Terusan Halimun No.37B, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-06-02T22:35:39.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf7b71c39bedb854b00a4"
+  },
+  "guid": "aeb90e3c-4956-4ced-a876-5238fced159e",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c",
+  "reporterName": "MUHAMMAD RIZKI FAHREZ",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-c4692d25-32dd-4e41-91f7-3e7eba80202c-1717368758-GEORIMA.jpg",
+  "timestamp": 1717368760,
+  "description": "layar blank screen",
+  "latitude": -6.9266542,
+  "longitude": 107.6263393,
+  "address": "Jl. Terusan Halimun No.37B, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 2,
+  "createdAt": {
+    "$date": "2024-06-02T22:52:39.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6697728a1c39bedb854b022d"
+  },
+  "guid": "b9c637e9-3e02-4b29-b27c-69dc2c382db9",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-70570450-5077-4498-a1cd-72a679b713be",
+  "reporterName": "ASEP TRISNA SETIAWAN",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-70570450-5077-4498-a1cd-72a679b713be-1721201289-GEORIMA.jpg",
+  "timestamp": 1721201291,
+  "description": "komputer rusak",
+  "latitude": -6.9293691,
+  "longitude": 107.6268066,
+  "address": "Jl. Pelajar Pejuang 45 No.63, Lingkar Selatan, Kecamatan Lengkong, Kota Bandung, Jawa Barat, Indonesia.40263",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-07-17T07:28:10.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9944008c70b6b30ae9dc9"
+  },
+  "guid": "b73117a7-1681-4ce0-8840-021282748ab0",
+  "moduleGuid": "module-9e33ffbe-cdc0-461c-a195-56cbb5885c76",
+  "reporterGuid": "surveyor-e8e7fb5f-44cf-4ebb-b961-96ca17239a44",
+  "reporterName": "SSS",
+  "image": "https://georima.nos.wjv-1.neo.id/data/sarpras/file/COMPLAINT-surveyor-e8e7fb5f-44cf-4ebb-b961-96ca17239a44-1723438143-GEORIMA.jpg",
+  "timestamp": 1723438145,
+  "description": "Botol kosong",
+  "latitude": -6.949805,
+  "longitude": 107.6205388,
+  "address": "3J2C+427, Pasirluyu, Kecamatan Regol, Kota Bandung, Jawa Barat, Indonesia.40254",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-08-12T04:49:04.850Z"
+  }
+}]
