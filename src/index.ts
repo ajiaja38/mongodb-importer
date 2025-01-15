@@ -4,7 +4,7 @@ import { logger } from "./utils/logger";
 import { join, extname } from "path";
 import fs from "fs";
 
-const destinationDB: string = "mongodb://10.142.1.29:27017/inventory_esdm";
+const destinationDB: string = "mongodb://localhost:27017/inventory_esdm";
 const inputDirectory: string = join(__dirname, "./db/Backup_SIAP");
 
 const importCollectionsToDb = async (): Promise<void> => {
