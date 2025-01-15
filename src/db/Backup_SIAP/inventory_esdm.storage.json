@@ -1,0 +1,177 @@
+[{
+  "_id": "646b2379a499ce580585c975",
+  "KODE_PENYIMPANAN": "RF-01",
+  "NAMA_PENYIMPANAN": "Rak Fisika-1",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "ff5be666-f1fd-485b-8760-0fe992c63020"
+},
+{
+  "_id": "646b23a4a499ce580585c97a",
+  "KODE_PENYIMPANAN": "RF-02",
+  "NAMA_PENYIMPANAN": "Rak Fisika-2",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "73451d56-0ed3-4a94-abc7-53b3ba52a3e9"
+},
+{
+  "_id": "646b23f3a499ce580585c98a",
+  "KODE_PENYIMPANAN": "RF-03",
+  "NAMA_PENYIMPANAN": "Rak Fisika-3",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "903fb950-b403-44bc-93f3-0a0ae69686d5"
+},
+{
+  "_id": "646c2480a499ce580585cb53",
+  "KODE_PENYIMPANAN": "RK01",
+  "NAMA_PENYIMPANAN": "Rak Nomor 1",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "889010dd-6810-4214-aff8-1c861dbb5138"
+},
+{
+  "_id": "646c35f8a499ce580585cbf6",
+  "KODE_PENYIMPANAN": "RF-04",
+  "NAMA_PENYIMPANAN": "Rak Fisika-4",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "1b1765a2-76a6-42ee-a9d4-d2f468794676"
+},
+{
+  "_id": "646c3616a499ce580585cbfa",
+  "KODE_PENYIMPANAN": "RF-05",
+  "NAMA_PENYIMPANAN": "Rak Fisika-5",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "bbd94b0c-2fe5-4148-980c-a49e3ced48a5"
+},
+{
+  "_id": "646dc387a499ce580585ccef",
+  "KODE_PENYIMPANAN": "RK-01",
+  "NAMA_PENYIMPANAN": "Rak Kimia 1",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "995d1d3c-7e05-4bde-a552-369a9b2bf056"
+},
+{
+  "_id": "646dc3c7a499ce580585ccf4",
+  "KODE_PENYIMPANAN": "RK-02",
+  "NAMA_PENYIMPANAN": "Rak Kimia 2",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "484964bf-b89e-4ea7-b018-c27eee755f27"
+},
+{
+  "_id": "646dc3daa499ce580585ccf9",
+  "KODE_PENYIMPANAN": "RK-03",
+  "NAMA_PENYIMPANAN": "Rak Kimia 3",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "bcfcf066-7259-496a-8cff-2a341435a98a"
+},
+{
+  "_id": "646dcc9fa499ce580585cd12",
+  "KODE_PENYIMPANAN": "BP01",
+  "NAMA_PENYIMPANAN": "Rak Perangkat Keras",
+  "ID_SATKER": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "GUID": "50ec9ffd-c9ed-45fd-bd87-f2ddbaedd3a7"
+},
+{
+  "_id": "64744f7a93d0095e0f2c7507",
+  "KODE_PENYIMPANAN": "RK-04",
+  "NAMA_PENYIMPANAN": "Rak Kimia 4",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "895f5a4f-0b8f-478f-a9e8-62ec1ef13d5b"
+},
+{
+  "_id": "64744fcc93d0095e0f2c750f",
+  "KODE_PENYIMPANAN": "RK-05",
+  "NAMA_PENYIMPANAN": "Rak Kimia 5",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "65780c8d-4427-46f3-b531-1f83bf2c17b2"
+},
+{
+  "_id": "647451cc93d0095e0f2c7514",
+  "KODE_PENYIMPANAN": "RK-06",
+  "NAMA_PENYIMPANAN": "Rak Kimia 6",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "3287c60c-a5b3-4823-ae54-3379db9e2623"
+},
+{
+  "_id": "6476becc30352034d0476632",
+  "KODE_PENYIMPANAN": "RK02",
+  "NAMA_PENYIMPANAN": "Rak Nomor 2",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "1b1b8b4a-53b9-4d93-8876-923a1d4b6638"
+},
+{
+  "_id": "647ec699e24ff38ee8772f3a",
+  "KODE_PENYIMPANAN": "RK01",
+  "NAMA_PENYIMPANAN": "RAK 1",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "86c04377-1ca6-40b1-87ec-fb6541ca47f2"
+},
+{
+  "_id": "64802f2a5e571a3921c6bbcd",
+  "KODE_PENYIMPANAN": "R1",
+  "NAMA_PENYIMPANAN": "Ruangan 1",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "4071950b-2931-4f90-83df-da9bd416ad62"
+},
+{
+  "_id": "6498190dc8262bb4890ec3bf",
+  "KODE_PENYIMPANAN": "RK03",
+  "NAMA_PENYIMPANAN": "Rak Nomor 3",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "b10b8cf5-6d75-441f-8dda-07ad745652e0"
+},
+{
+  "_id": "6498191cc8262bb4890ec3c4",
+  "KODE_PENYIMPANAN": "RK04",
+  "NAMA_PENYIMPANAN": "Rak Nomor 4",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "ba977de9-88ea-4a10-9c23-05e427fe450b"
+},
+{
+  "_id": "6498192fc8262bb4890ec3c9",
+  "KODE_PENYIMPANAN": "RK05",
+  "NAMA_PENYIMPANAN": "Rak Nomor 5",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "5aed14eb-70c8-4611-8bbb-c89e65a6d1b2"
+},
+{
+  "_id": "6498193cc8262bb4890ec3ce",
+  "KODE_PENYIMPANAN": "RK06",
+  "NAMA_PENYIMPANAN": "Rak Nomor 6",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "72c8ede4-3ee6-4e1a-9335-0e1388fd587e"
+},
+{
+  "_id": "64f7edee989f357964c3455d",
+  "KODE_PENYIMPANAN": "RAK-01",
+  "NAMA_PENYIMPANAN": "RAK 1",
+  "ID_SATKER": "ec61f9b5-ab1b-46b4-a3f1-c0212e19826e",
+  "GUID": "c296393e-8c8a-4b31-a7e5-26911cf763f5"
+},
+{
+  "_id": "651d2146cd5b1e13f1fb48e0",
+  "KODE_PENYIMPANAN": "RK-24",
+  "NAMA_PENYIMPANAN": "Rak Minuman",
+  "ID_SATKER": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "GUID": "99b85d8a-ac89-4484-a99c-f5b24a81c976"
+},
+{
+  "_id": "651f604659e4699c7d30aca5",
+  "KODE_PENYIMPANAN": "RS",
+  "NAMA_PENYIMPANAN": "Rak mandiri",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "4a3cf429-93ce-43d6-b79a-cd6788f13f15"
+},
+{
+  "_id": "6569398b7ae70d062019fd17",
+  "KODE_PENYIMPANAN": "RK07",
+  "NAMA_PENYIMPANAN": "Rak Nomor 7",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "e533479c-2a89-4639-b669-b52135be7f51"
+},
+{
+  "_id": {
+    "$oid": "66fbac1f4a0621a7b2a9603a"
+  },
+  "KODE_PENYIMPANAN": "RAK-02",
+  "NAMA_PENYIMPANAN": "test",
+  "ID_SATKER": "ec61f9b5-ab1b-46b4-a3f1-c0212e19826e",
+  "GUID": "0884346b-0813-420f-a4d1-89356b9cee6b"
+}]

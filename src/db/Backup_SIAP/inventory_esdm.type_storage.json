@@ -1,0 +1,392 @@
+[{
+  "_id": "646b22cea499ce580585c959",
+  "KODE": "LK-A",
+  "NAMA_JENIS": "Instrumen dan Gelas",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "d6d58085-e530-48d1-96b4-44a5ad89767e"
+},
+{
+  "_id": "646b8947a499ce580585c9ad",
+  "KODE": "LK-B",
+  "NAMA_JENIS": "Bahan Kimia Pelarut",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "111e6d3a-eb52-4c7a-90f0-7caeaf86c4d0"
+},
+{
+  "_id": "646b8979a499ce580585c9ba",
+  "KODE": "LK-C",
+  "NAMA_JENIS": "Bahan Kimia Prekursor",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "68c97701-972b-4f05-80ea-e31d011d59e9"
+},
+{
+  "_id": "646b8996a499ce580585c9bf",
+  "KODE": "LK-D",
+  "NAMA_JENIS": "Bahan Kimia B2",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "9b3051ae-cd6f-4981-a15b-5783bd6af9a7"
+},
+{
+  "_id": "646b89eba499ce580585c9c4",
+  "KODE": "LK-E",
+  "NAMA_JENIS": "Bahan Kimia B3",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "863f485a-f1c8-4ff2-a420-bef8a2ecf0e8"
+},
+{
+  "_id": "646b8a15a499ce580585c9c9",
+  "KODE": "LF-A",
+  "NAMA_JENIS": "Bahan Preparasi Conto Fisika",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "2c166d24-c1e5-4a00-9bee-70ae3826364f"
+},
+{
+  "_id": "646b8a3aa499ce580585c9ce",
+  "KODE": "LF-B",
+  "NAMA_JENIS": "Bahan Kelengkapan Instrumen Fisika",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "06ecebed-1836-4fff-8153-d1db4b1aef51"
+},
+{
+  "_id": "646b8a88a499ce580585c9d3",
+  "KODE": "STD-A",
+  "NAMA_JENIS": "CRM Padatan",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "7eee6121-836c-45e0-b14e-a51973fc93e6"
+},
+{
+  "_id": "646b8aa7a499ce580585c9d8",
+  "KODE": "STD-B",
+  "NAMA_JENIS": "CRM Larutan",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "e589034e-d805-4fda-b79b-be58bc3d0408"
+},
+{
+  "_id": "646c246da499ce580585cb4c",
+  "KODE": "A01",
+  "NAMA_JENIS": "Obat Cair",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "91b891b1-2354-4d6e-a57f-c5602b7945e2"
+},
+{
+  "_id": "646dcc88a499ce580585cd09",
+  "KODE": "B01",
+  "NAMA_JENIS": "Perangkat Keras",
+  "ID_SATKER": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "GUID": "3e889a90-3918-44df-9290-0d2814aa8501"
+},
+{
+  "_id": "6476befb30352034d047663d",
+  "KODE": "A02",
+  "NAMA_JENIS": "Obat Padat",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "1f587235-9d0d-455b-bcd9-e32bc99f093e"
+},
+{
+  "_id": "647ec505e24ff38ee8772f31",
+  "KODE": "AT01",
+  "NAMA_JENIS": "ALAT TULIS",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "033eeec9-b584-4635-bc33-23fd61ff2186"
+},
+{
+  "_id": "647ec7fde24ff38ee8773316",
+  "KODE": "PK01",
+  "NAMA_JENIS": "PENJEPIT KERTAS",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "912cf682-e313-4f8d-b97e-dafade65ac44"
+},
+{
+  "_id": "647eceb5e24ff38ee8773b11",
+  "KODE": "DK",
+  "NAMA_JENIS": "PENGHAPUS/KOREKTOR",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "8cf539bf-838b-450d-888c-2e46b8680bb3"
+},
+{
+  "_id": "647ed019e24ff38ee8773b32",
+  "KODE": "BK01",
+  "NAMA_JENIS": "BUKU TULIS",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "3a65fc0e-04fa-44bd-b800-3cdf89919973"
+},
+{
+  "_id": "647ed3cae24ff38ee8773b51",
+  "KODE": "OM01",
+  "NAMA_JENIS": "ORDNER DAN MAP ",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "f0b79568-a958-4460-9752-af2cec057cb7"
+},
+{
+  "_id": "647ed7f4e24ff38ee8773c07",
+  "KODE": "P01",
+  "NAMA_JENIS": "PENGGARIS",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "f73affdf-f617-4d3d-82cb-3b61be67d813"
+},
+{
+  "_id": "647ed867e24ff38ee8773c0e",
+  "KODE": "CT01",
+  "NAMA_JENIS": "CUTTER (ALAT TULIS KANTOR)",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "2865e89c-c593-47e3-97b3-7ae64f99d477"
+},
+{
+  "_id": "647ed93ee24ff38ee8773c15",
+  "KODE": "PMK",
+  "NAMA_JENIS": "PITA MESIN KETIK",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "aed610d5-1130-4ac2-b351-4479d4357242"
+},
+{
+  "_id": "647ed987e24ff38ee8773c1c",
+  "KODE": "AP",
+  "NAMA_JENIS": "ALAT PEREKAT",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "1f630ecf-8a9b-4132-80ec-2293fb39ebc4"
+},
+{
+  "_id": "647ed9e3e24ff38ee8773c23",
+  "KODE": "SH",
+  "NAMA_JENIS": "STADLER HD",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "26abde95-8c2e-44f4-adcc-aef0e41865c3"
+},
+{
+  "_id": "647eda3be24ff38ee8773c2a",
+  "KODE": "ATKL",
+  "NAMA_JENIS": "ALAT TULIS KANTOR LAINNYA",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "4ba41753-cb51-40af-b29e-7f98a4ee8007"
+},
+{
+  "_id": "647edac8e24ff38ee8773c2f",
+  "KODE": "BKL",
+  "NAMA_JENIS": "BAHAN KOMPUTER LAINNYA",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "1ba2294d-c7fb-4c3c-9a73-0fce6d39f4de"
+},
+{
+  "_id": "647edbcae24ff38ee8773c36",
+  "KODE": "UF",
+  "NAMA_JENIS": "USB/FLASHDISK",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "217dd725-5a67-4f6b-9a86-e534cb708a7f"
+},
+{
+  "_id": "647edc2ce24ff38ee8773c3d",
+  "KODE": "TTP",
+  "NAMA_JENIS": "TINTA TONER PRINTER",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "7e8fc4a9-0287-4baf-b112-24aaebc03e86"
+},
+{
+  "_id": "647edc5fe24ff38ee8773c45",
+  "KODE": "A03",
+  "NAMA_JENIS": "Obat Gas",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "faf96e53-8a45-464b-9c5e-5a3a441b49ee"
+},
+{
+  "_id": "647edc6de24ff38ee8773c4a",
+  "KODE": "A04",
+  "NAMA_JENIS": "Obat Serbuk/Tepung",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "0f534bca-4ccf-4384-8f97-86c9cb278f6e"
+},
+{
+  "_id": "647edc80e24ff38ee8773c4f",
+  "KODE": "A05",
+  "NAMA_JENIS": "Obat Gel/Salep",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "c1619451-9b7c-4d73-957f-43975c8a1640"
+},
+{
+  "_id": "647edc9be24ff38ee8773c54",
+  "KODE": "A06",
+  "NAMA_JENIS": "Obat Lainnya",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "253f289f-c72e-4dfa-b73d-f3f79b0f6b68"
+},
+{
+  "_id": "647edd72e24ff38ee8773e24",
+  "KODE": "AMP",
+  "NAMA_JENIS": "AMPLOP",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "8e36dca4-928b-4bb2-b23f-96f91b0d13cc"
+},
+{
+  "_id": "647edde7e24ff38ee8773e2b",
+  "KODE": "BK",
+  "NAMA_JENIS": "BERBAGAI KERTAS",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "a1e47bd7-fe52-4dab-babd-989e3401dcf7"
+},
+{
+  "_id": "647ede45e24ff38ee8773e32",
+  "KODE": "KERTAS HVS",
+  "NAMA_JENIS": "KH",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "dac2e22d-1351-47a8-98d5-9e9af4359971"
+},
+{
+  "_id": "647ede97e24ff38ee8773e39",
+  "KODE": "KC",
+  "NAMA_JENIS": "KERTAS COVER",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "3f027764-7356-4474-92b1-b04277cb2801"
+},
+{
+  "_id": "647ee635e24ff38ee8774831",
+  "KODE": "A07",
+  "NAMA_JENIS": "Alat Penunjang Kedokteran",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "d17c92d3-06b7-463a-9241-fd10070535d9"
+},
+{
+  "_id": "647eeac9e24ff38ee8774a86",
+  "KODE": "A08",
+  "NAMA_JENIS": "Alat Penunjang Kantor",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "ccd7d04a-dad6-45d2-a489-e7697ecbe74d"
+},
+{
+  "_id": "647eeae9e24ff38ee8774a8f",
+  "KODE": "A09",
+  "NAMA_JENIS": "Alat/Bahan Kantor",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "fdf61ae4-d490-4d52-a73a-5c368de096e2"
+},
+{
+  "_id": "647eeaf7e24ff38ee8774a94",
+  "KODE": "A10",
+  "NAMA_JENIS": "Perabot Kantor",
+  "ID_SATKER": "93200513-1d8b-440b-a838-d285233aaf57",
+  "GUID": "454d3161-5c89-44d0-ba66-4460be34d81b"
+},
+{
+  "_id": "647eeba0e24ff38ee8774e1a",
+  "KODE": "APK",
+  "NAMA_JENIS": "ALAT PENUNJANG KEGIATAN KANTOR LAINNYA",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "6a1245cd-ff45-4faf-9dea-605f1aec8310"
+},
+{
+  "_id": "647eebcbe24ff38ee8774e1f",
+  "KODE": "BPK",
+  "NAMA_JENIS": "BAHAN PENUNJANG KEGIATAN KANTOR LAINNYA",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "bb3494da-e8f5-455c-ae81-45a69d464c55"
+},
+{
+  "_id": "647eed7de24ff38ee8774e53",
+  "KODE": "BUP",
+  "NAMA_JENIS": "BAHAN UNTUK PEMELIHARAAN",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "ed2fcd80-5e7d-4c83-926e-9e142d86b51a"
+},
+{
+  "_id": "647eee09e24ff38ee8774e65",
+  "KODE": "AL",
+  "NAMA_JENIS": "ALAT-ALAT PEL DAN LAP",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "05c4d988-b0c9-474b-9296-7a8fa12b70a0"
+},
+{
+  "_id": "647eeef0e24ff38ee8774e8a",
+  "KODE": "PKL",
+  "NAMA_JENIS": "PERABOT KANTOR LAINNYA",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "71414c1b-75c7-4ab2-a7e9-d3861775cdd8"
+},
+{
+  "_id": "647ef0e5e24ff38ee8774ed0",
+  "KODE": "SC",
+  "NAMA_JENIS": "SUKU CADANG ",
+  "ID_SATKER": "5c8d5308-08c3-445e-96ff-3c01c4085d44",
+  "GUID": "74dae51e-dc34-4b63-9afa-de4bee98e39e"
+},
+{
+  "_id": "64802f1a5e571a3921c6bbc6",
+  "KODE": "SCL",
+  "NAMA_JENIS": "Suku Cadang Lainya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "842d1c76-21cb-4a5b-b54f-79c28c3d3644"
+},
+{
+  "_id": "6480326e5e571a3921c6bc13",
+  "KODE": "KPL",
+  "NAMA_JENIS": "Komponen Peralatan Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "384c4ed0-7341-4d5f-a2b4-f88a99aef332"
+},
+{
+  "_id": "648033895e571a3921c6bd24",
+  "KODE": "SCU",
+  "NAMA_JENIS": "Suku Cadang Alat Laboratorium Umum",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "ff66640a-be0f-4da1-8ef2-e27e51f99fd2"
+},
+{
+  "_id": "648033b45e571a3921c6bd29",
+  "KODE": "KRRL",
+  "NAMA_JENIS": "Komponen Rambu-Rambu Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "cdefdbcb-7250-42bd-b9bd-fae5388b052d"
+},
+{
+  "_id": "648033c35e571a3921c6bd2e",
+  "KODE": "PBL",
+  "NAMA_JENIS": "Pipa Baja Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "e36d8d21-9026-4884-a22b-e40e210cf6e7"
+},
+{
+  "_id": "648035065e571a3921c6bd3f",
+  "KODE": "PPPL",
+  "NAMA_JENIS": "Pipa Plastik PVC (UPVC) Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "82600ae1-f009-4660-9cfd-d5cf46844a46"
+},
+{
+  "_id": "648035175e571a3921c6bd44",
+  "KODE": "RRL",
+  "NAMA_JENIS": "Rambu-Rambu Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "31f98d35-2fa7-459d-a3b1-9d6bf8070357"
+},
+{
+  "_id": "648039635e571a3921c6c3f5",
+  "KODE": "LL",
+  "NAMA_JENIS": "Lampu Listrik",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "da08fda2-672c-44d6-93c5-10ccff7be087"
+},
+{
+  "_id": "64803a3c5e571a3921c6c403",
+  "KODE": "APKKL",
+  "NAMA_JENIS": "Alat Penunjang Kegiatan Kantor Lainnya",
+  "ID_SATKER": "1991d39e-67b0-4970-b092-00595a9244f4",
+  "GUID": "27b6ed0e-ea20-42db-be36-4f75f05e6aa0"
+},
+{
+  "_id": "64f7eddf989f357964c34554",
+  "KODE": "PDT01",
+  "NAMA_JENIS": "PADAT",
+  "ID_SATKER": "ec61f9b5-ab1b-46b4-a3f1-c0212e19826e",
+  "GUID": "5e1d501d-47c9-49c5-ac74-f2726b753cd6"
+},
+{
+  "_id": "651d2285cd5b1e13f1fb4916",
+  "KODE": "A24",
+  "NAMA_JENIS": "susu sehat",
+  "ID_SATKER": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "GUID": "bf7afb38-ff28-47c7-90d7-5ad8e92f9a9f"
+},
+{
+  "_id": "651f605259e4699c7d30acab",
+  "KODE": "RA",
+  "NAMA_JENIS": "BAHAN PECAH BELAH",
+  "ID_SATKER": "8ef13ded-10a1-4a13-92df-6d82a7625530",
+  "GUID": "6b7142d0-c425-4f32-822f-7d7ef36c64eb"
+}]

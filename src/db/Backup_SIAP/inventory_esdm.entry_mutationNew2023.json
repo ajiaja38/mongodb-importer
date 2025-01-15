@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "67078ec20067b0b322da6566"
+  },
+  "NOMOR_SPK": "12345678",
+  "ID_MUTASI_MASUK": "372942e6-c810-46c3-8bc8-8fd144f8e14b",
+  "ID_SATKER": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "ID_INSTANSI": "32e2b2b3-907f-a499-9bda-bc549c992564",
+  "KODE_BARANG": "1.01.03.06.002.000008",
+  "NAMA_BARANG": "Lampu Halogen 6 V 20 W",
+  "KATEGORI": 52,
+  "HARGA": 4032600,
+  "TANGGAL": "2024-10-10 15:22:12",
+  "QTY": 2,
+  "STOCK_AWAL": 15,
+  "STOCK_AKHIR": 13,
+  "ID_PENGGUNA": "929a7068-2d5d-45e0-916e-30645965aefb",
+  "KETERANGAN": "-",
+  "STATUS": "ditunda"
+}]
